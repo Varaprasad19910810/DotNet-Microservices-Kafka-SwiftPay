@@ -1,8 +1,8 @@
-# 💸 DotNet Microservices – SwiftPay Transaction Monitoring System
+# DotNet Microservices – SwiftPay Transaction Monitoring System
 
 A real-time financial transaction monitoring platform built with .NET 8, Kafka, PostgreSQL, Azure Functions, and Blazor. Designed to simulate secure, scalable SWIFT-based payment processing and alerting.
 
-## 🚀 Features
+## Features
 
 - RESTful APIs built in .NET 8
 - Real-time message streaming with Kafka
@@ -11,22 +11,22 @@ A real-time financial transaction monitoring platform built with .NET 8, Kafka, 
 - Azure Functions for background processing
 - Docker-ready, cloud deployable
 
-## 🔧 Microservices Architecture
+## Microservices Architecture
 
 - **TransactionService**: Create & store payment data
 - **NotificationService** *(coming soon)*: Trigger fraud alerts
 - **AuditService** *(planned)*: Stores transaction logs
 - **UI Dashboard** *(in progress)*: Blazor SPA for insights
 
-## 🗂️ Folder Structure
+## Folder Structure
 
 
-## 📊 Project Status
+## Project Status
 
-✅ Base API Complete  
-🔄 Kafka & PostgreSQL integration planned  
-🖥️ UI dashboard under development
+Base API Complete  
+Kafka & PostgreSQL integration planned  
+UI dashboard under development
 
-## 🙌 Author
+## Author
 
 Vara Prasad – [LinkedIn](https://www.linkedin.com/in/prasad-2040935-p/)
