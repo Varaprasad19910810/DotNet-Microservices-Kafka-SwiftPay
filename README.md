@@ -27,6 +27,3 @@ Base API Complete
 Kafka & PostgreSQL integration planned  
 UI dashboard under development
 
-## Author
-
-Vara Prasad – [LinkedIn](https://www.linkedin.com/in/prasad-2040935-p/)
